@@ -1,0 +1,11 @@
+Name:souad;
+Cin:00h00;
+age:26
+-
+Name:amine;
+Cin:00h00;
+age:27
+-
+Name:loubna;
+Cin:00h00;
+age:30

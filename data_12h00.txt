@@ -1,0 +1,11 @@
+Name:Aymane;
+Cin:12h00;
+age:27
+-
+Name:hind;
+Cin:12h00;
+age:37
+-
+Name:kamal;
+Cin:12h00;
+age:21
